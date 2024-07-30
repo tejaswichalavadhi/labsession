@@ -1,0 +1,9 @@
+You will master the Linux OS, learn about the functionality and advantages of Bash, get familiar with the Bash syntax and CI/CD instruments, discover the possibilities of Amazon, Google, Azure clouds, and study all the other topics that will lay the foundation for your DevOps career.
+
+This program format does not allow you to continue your studies in the EPAM Laboratory. Its goal is to provide the participants with essential, relevant, and topical knowledge for the career start. Among the other advantages of the course:
+
+You can pass it at a convenient pace, anytime and from anywhere.
+It allows you to lay a solid foundation for your future studies in the DevOps direction.
+The program consists of up-to-date high-quality materials that reflect the current state of the IT industry.
+EPAM experts from all over the world participated in the creation of this course to make it suitable for beginners.
+This is a free educational opportunity for everyone who wishes to study under the guidance of the best EPAM mentors.
